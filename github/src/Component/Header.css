@@ -1,0 +1,8 @@
+#header{
+    display: flex;
+    padding: 5px;
+}
+#header .text strong{
+    display: table;
+    margin: 5px 25px;
+}
