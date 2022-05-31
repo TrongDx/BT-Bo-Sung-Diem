@@ -22,6 +22,9 @@ function Body(){
     <div class="carousel-item">
       <img src="https://www.hust.edu.vn/documents/21257/47292/Gi%E1%BB%9Bi-thi%E1%BB%87u_2.jpg/813e3aa1-bcb9-47e0-8559-db53a888d223?t=1467713886000" class="d-block w-100" alt="..."/>
     </div>
+    <div class="carousel-item">
+      <img src="https://www.hust.edu.vn/documents/21257/47292/Gi%E1%BB%9Bi-thi%E1%BB%87u_2.jpg/813e3aa1-bcb9-47e0-8559-db53a888d223?t=1467713886000" class="d-block w-100" alt="..."/>
+    </div>
   </div>
   <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
