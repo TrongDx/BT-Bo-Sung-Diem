@@ -1,0 +1,34 @@
+body{
+    width: 100%;
+    height: 150px;
+}
+
+body .carouse-body{
+    border-bottom: 7px solid rgb(190, 15, 15);
+}
+
+/* BODY-2 */
+
+.body-2 h3{
+    padding: 25px 0px;
+}
+.col{
+    display: flex;
+}
+.body-2 .col-inner{
+    width: 25%;
+    margin-left: 0;
+}
+.body-2 .col .col-inner img{
+    width: 100%;
+}
+
+.text-center{
+    background-color: rgb(190, 15, 15);
+    padding: 5px 0px;
+}
+.text-center button{
+    background-color: rgb(190, 15, 15);
+    color: #fff;
+    border-radius: 5px;
+}
